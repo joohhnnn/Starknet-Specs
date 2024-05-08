@@ -3,6 +3,7 @@ This repository is dedicated to developing coding mechanisms and detailed multil
 
 ## Code and logic explanation
 [Understanding-Optimism-Codebase](https://github.com/joohhnnn/Understanding-Optimism-Codebase)
+
 [Understanding-Optimism-Codebase-CN](https://github.com/joohhnnn/Understanding-Optimism-Codebase-CN)
 
 ## Specs
