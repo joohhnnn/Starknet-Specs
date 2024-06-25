@@ -8,3 +8,7 @@ This repository is dedicated to developing coding mechanisms and detailed multil
 
 ## Specs
 [ethereum-optimism/specs](https://github.com/ethereum-optimism/specs)
+
+## Milestone
+
+[Milestone] (https://github.com/joohhnnn/starknet-specs-milestone)
