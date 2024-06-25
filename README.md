@@ -11,4 +11,4 @@ This repository is dedicated to developing coding mechanisms and detailed multil
 
 ## Milestone
 
-[Milestone] (https://github.com/joohhnnn/starknet-specs-milestone)
+[Milestone](https://github.com/joohhnnn/starknet-specs-milestone)
